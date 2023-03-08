@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@waylaidwanderer/chatgpt-api": "^1.20.9",
+    "bing-chat": "^0.2.1",
+    "chatgpt": "^5.0.8",
+    "discord.js-selfbot-v13": "^2.10.1",
+    "google-translate-api": "^2.3.0",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0"
+  },
+  "type": "module",
+  "name": "ai-member-discord",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
